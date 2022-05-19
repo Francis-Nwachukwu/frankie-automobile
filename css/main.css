@@ -346,7 +346,7 @@ body {
 }
 /* footer icons */
 .footer {
-  background: var(--mainBlack);
+  background: var(--mainBlacsk);
 }
 .footer-icon {
   font-size: 1.5rem;
@@ -356,4 +356,8 @@ body {
 }
 .footer-icon:hover {
   color: var(--mainBlue);
+}
+.footer-copyright p {
+  color: var(--mainWhite);
+  margin: 0;
 }
